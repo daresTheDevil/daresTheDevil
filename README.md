@@ -54,5 +54,5 @@ or building something that doesn't have a tutorial.
 ---
 
 <div align="center">
-<sub>Mississippi · yes, really. It's complicated.</sub>
+<sub>Mississippi · It's complicated.</sub>
 </div>
