@@ -12,6 +12,7 @@
 ---
 
 Two decades keeping systems running that weren't designed to run together.
+
 Gaming floors, defense infrastructure, education platforms, enterprise environments.
 Most of the job is convincing legacy and modern to coexist without either one noticing.
 
@@ -45,11 +46,30 @@ or building something that doesn't have a tutorial.
 
 <div align="center">
 
-### Currently Building
+### Projects and Customers
 
 </div>
 
-**pay me and find out.**
+- Pearl River Resort
+- Advisr
+- Federal Highway Administration
+- Mississippi Development Authority
+- Weapons of Mass Destruction Proliferation Prevention Program
+- Raytheon
+- C4 Plans
+- GameTech International
+- US Army
+- Mississippi Department of Education
+- Mississippi Department of Transportation
+- CSpire
+- AT&T
+- Centers for Medicare & Medicaid Services
+- Department of Veterans Affairs
+- United States Digital Response
+- 18F
+- Lockheed Martin
+- FLIR Systems
+- and, and, and. Put yourself on the list.
 
 ---
 
