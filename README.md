@@ -1,55 +1,53 @@
-<div align="center">
+## About Me
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  DAVID  ·  Principal Developer  ·  CRDE                      ║
-║  Gaming · Defense · Education · Startups.                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Dad, husband, veteran, and engineer from Mississippi.
 
-</div>
+Two decades keeping systems running that weren't designed to work together.
 
----
+Gaming, defense, education, startups, state & federal government.
+People call me when they have systems that won't talk, or systems that need updating.
 
-Two decades keeping systems running that weren't designed to run together.
+I work ***full stack***, that means bare-metal to Typescript and everywhere in between. 
+There's no reason why I'm not coding an awesome client, triaging an i-Series,
+or figuring out why that k8s cluster is dead.
 
-Gaming floors, defense infrastructure, education platforms, enterprise environments.
-Most of the job is convincing legacy and modern to coexist without either one noticing.
-
-I work across the full stack — which in practice means I'm as likely to be writing TypeScript
-as I am reading a COBOL trace log or figuring out why a VM won't boot.
-The through line is usually the same: find the actual problem, fix the actual thing.
-
-When I'm not in front of the terminal I'm probably wiring something, welding something,
+When not at my desk, I ride motorcycles, watch Bayern, welding/rewiring something,
 or building something that doesn't have a tutorial.
+```
 
 ---
-
-<div align="center">
-
 ### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![Ruby](https://img.shields.io/badge/Ruby-1a1a1a?style=flat-square&logo=ruby&logoColor=CC342D)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4)
+![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=0175C2)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=flat-square&logo=dotnet&logoColor=512BD4)
+
 ![Vue](https://img.shields.io/badge/Vue%20%2F%20Nuxt-1a1a1a?style=flat-square&logo=vue.js&logoColor=42B883)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Rails](https://img.shields.io/badge/Rails-1a1a1a?style=flat-square&logo=rubyonrails&logoColor=CC0000)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=02569B)
 ![Node](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
+![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify&logoColor=ffffff)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1a1a1a?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
 ![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=flat-square&logo=oracle&logoColor=F80000)
 ![IBM](https://img.shields.io/badge/IBM%20i--Series-1a1a1a?style=flat-square&logo=ibm&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=02569B)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=FF4438)
 
-</div>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
+![VMware](https://img.shields.io/badge/VMware-1a1a1a?style=flat-square&logo=vmware&logoColor=607078)
+![Tauri](https://img.shields.io/badge/Tauri-1a1a1a?style=flat-square&logo=tauri&logoColor=FFC131)
 
 ---
-
-<div align="center">
-
 ### Projects and Customers
-
-</div>
-
 - Pearl River Resort
 - Advisr
 - Federal Highway Administration
@@ -69,10 +67,11 @@ or building something that doesn't have a tutorial.
 - 18F
 - Lockheed Martin
 - FLIR Systems
-- and, and, and. Put yourself on the list.
+- and, and, and. Reach out if you want to work together.
 
 ---
 
-<div align="center">
-<sub>Mississippi · It's complicated.</sub>
-</div>
+```
+Fix what's broken, give credit where it's due, and don't be an asshole. 
+- David
+```
