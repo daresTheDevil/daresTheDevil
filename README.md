@@ -10,7 +10,7 @@ People call me when they have systems that won't talk, or systems that need upda
 
 I work FULL STACK, that means bare-metal to Typescript and everywhere in between. 
 There's no reason why I'm not coding an awesome client, triaging an i-Series,
-or figuring out why that k8s cluster is dead.
+or figuring out why that k8s cluster is dead, all in the same day.
 
 When not at my desk, I ride motorcycles, watch Bayern, welding/rewiring something,
 or building something that doesn't have a tutorial.
