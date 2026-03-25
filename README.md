@@ -8,7 +8,7 @@ Two decades keeping systems running that weren't designed to work together.
 Gaming, defense, education, startups, state & federal government.
 People call me when they have systems that won't talk, or systems that need updating.
 
-I work ***full stack***, that means bare-metal to Typescript and everywhere in between. 
+I work FULL STACK, that means bare-metal to Typescript and everywhere in between. 
 There's no reason why I'm not coding an awesome client, triaging an i-Series,
 or figuring out why that k8s cluster is dead.
 
