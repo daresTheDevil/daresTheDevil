@@ -20,7 +20,7 @@ or building something that doesn't have a tutorial. Just kidding. I'm riding my 
 </td>
 <td valign="middle" align="center" width="40%">
 
-![Mississippi Magnolia Flag](./ms-flag-15pct.svg)
+![Mississippi Magnolia Flag](./ms-flag.svg)
 
 </td>
 </tr>
