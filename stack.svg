@@ -1,0 +1,130 @@
+<svg fill="none" viewBox="0 0 920 240" width="920" height="240" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        .wrap {
+        width: 920px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        overflow: hidden;
+        }
+        .section-head {
+        font-size: 36px;
+        font-weight: 700;
+        color: #f9fafb;
+        line-height: 1.15;
+        letter-spacing: -0.5px;
+        padding: 4px 8px 16px 8px;
+        }
+        .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        }
+        .cell {
+        padding: 24px 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        }
+        .cell-title {
+        font-size: 13px;
+        font-weight: 700;
+        color: #f3f4f6;
+        line-height: 1.3;
+        }
+        .cell-body {
+        font-size: 11.5px;
+        line-height: 1.75;
+        color: #6b7280;
+        }
+        .item {
+        font-size: 13px;
+        line-height: 1.7;
+        color: #9ca3af;
+        padding: 2px 0;
+        }
+        .item strong {
+        color: #f3f4f6;
+        font-weight: 600;
+        }
+
+        .wrap { height: 240px; padding: 4px 8px; }
+        .srow {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 12px;
+        padding: 7px 0;
+        }
+        .slabel {
+        font-size: 11px;
+        font-weight: 600;
+        color: #4b5563;
+        width: 68px;
+        flex-shrink: 0;
+        }
+        .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+        .chip {
+        font-size: 11px;
+        color: #9ca3af;
+        background: #1f2937;
+        border-radius: 4px;
+        padding: 2px 8px;
+        }
+      </style>
+      <div class="wrap">
+        <div class="section-head">Stack</div>
+
+        <div class="srow">
+          <span class="slabel">Languages</span>
+          <div class="chips">
+            <span class="chip">TypeScript</span>
+            <span class="chip">JavaScript</span>
+            <span class="chip">Python</span>
+            <span class="chip">Ruby</span>
+            <span class="chip">PHP</span>
+            <span class="chip">Dart</span>
+            <span class="chip">C#</span>
+          </div>
+        </div>
+        <div class="srow">
+          <span class="slabel">Frontend</span>
+          <div class="chips">
+            <span class="chip">Vue / Nuxt</span>
+            <span class="chip">React</span>
+            <span class="chip">Flutter</span>
+            <span class="chip">Rails</span>
+          </div>
+        </div>
+        <div class="srow">
+          <span class="slabel">Backend</span>
+          <div class="chips">
+            <span class="chip">Node.js</span>
+            <span class="chip">Fastify</span>
+          </div>
+        </div>
+        <div class="srow">
+          <span class="slabel">Data</span>
+          <div class="chips">
+            <span class="chip">PostgreSQL</span>
+            <span class="chip">SQL Server</span>
+            <span class="chip">Oracle</span>
+            <span class="chip">IBM i-Series</span>
+            <span class="chip">Redis</span>
+          </div>
+        </div>
+        <div class="srow">
+          <span class="slabel">Infra</span>
+          <div class="chips">
+            <span class="chip">Kubernetes</span>
+            <span class="chip">Docker</span>
+            <span class="chip">Linux</span>
+            <span class="chip">VMware</span>
+            <span class="chip">Tauri</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,97 @@
+<svg fill="none" viewBox="0 0 920 340" width="920" height="340" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        .wrap {
+        width: 920px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        overflow: hidden;
+        }
+        .section-head {
+        font-size: 36px;
+        font-weight: 700;
+        color: #f9fafb;
+        line-height: 1.15;
+        letter-spacing: -0.5px;
+        padding: 4px 8px 16px 8px;
+        }
+        .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        }
+        .cell {
+        padding: 24px 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        }
+        .cell-title {
+        font-size: 13px;
+        font-weight: 700;
+        color: #f3f4f6;
+        line-height: 1.3;
+        }
+        .cell-body {
+        font-size: 11.5px;
+        line-height: 1.75;
+        color: #6b7280;
+        }
+        .item {
+        font-size: 13px;
+        line-height: 1.7;
+        color: #9ca3af;
+        padding: 2px 0;
+        }
+        .item strong {
+        color: #f3f4f6;
+        font-weight: 600;
+        }
+
+        .wrap { height: 340px; padding: 4px 8px; }
+        .cols {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0 48px;
+        }
+        .item {
+        font-size: 13px;
+        line-height: 1.7;
+        color: #9ca3af;
+        padding: 1px 0;
+        }
+        .item:last-child { color: #4b5563; font-style: italic; }
+      </style>
+      <div class="wrap">
+        <div class="section-head">Projects &amp; Customers</div>
+        <div class="cols">
+          <div>
+            <div class="item">Pearl River Resort</div>
+            <div class="item">Advisr</div>
+            <div class="item">Federal Highway Administration</div>
+            <div class="item">Mississippi Development Authority</div>
+            <div class="item">WMD Proliferation Prevention Program</div>
+            <div class="item">Raytheon</div>
+            <div class="item">C4 Plans</div>
+            <div class="item">GameTech International</div>
+            <div class="item">US Army</div>
+            <div class="item">Mississippi Dept of Education</div>
+          </div>
+          <div>
+            <div class="item">Mississippi Dept of Transportation</div>
+            <div class="item">CSpire</div>
+            <div class="item">AT&amp;T</div>
+            <div class="item">Centers for Medicare &amp; Medicaid Services</div>
+            <div class="item">Department of Veterans Affairs</div>
+            <div class="item">United States Digital Response</div>
+            <div class="item">18F</div>
+            <div class="item">Lockheed Martin</div>
+            <div class="item">FLIR Systems</div>
+            <div class="item">and, and, and. Reach out.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
