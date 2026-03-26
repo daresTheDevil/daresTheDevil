@@ -136,7 +136,3 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1f2937?style=flat&logo=cloudflare&logoColor=9ca3af)&nbsp;&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-1f2937?style=flat&logo=vercel&logoColor=9ca3af)
 
----
-
-<sub><i>Fix what's broken, give credit where it's due, and don't be an asshole.</i></sub>
-<br />**— David**
