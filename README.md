@@ -1,5 +1,3 @@
-## About Me:
-
 <table>
   <tr>
     <td width="60%" valign="top">
