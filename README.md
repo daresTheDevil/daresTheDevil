@@ -16,6 +16,17 @@
 
 ---
 
+### Values
+
+- **Competence over credentials.** Titles matter, but they don't do the work.
+- **Honesty over diplomacy.** Hard truths over easy lies.
+- **Everyone's work matters.** Respect and celebrate that.
+- **Finish what you start.** No broken windows. No "come back to it later."
+- **Substance over appearance.** The work speaks for itself.
+- **Show up where it matters.** Not where it's visible.
+
+---
+
 <table>
   <tr valign="top">
     <td width="33%">
