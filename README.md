@@ -15,6 +15,14 @@ won't communicate or your legacy systems need updated.
 - **Substance over appearance.** The work speaks for itself.
 - **Show up where it matters.** Not where it's visible.
 
+### Fixed upstream
+
+Accessibility fixes in the [U.S. Web Design System](https://designsystem.digital.gov), the component library federal agencies build their sites on.
+
+- [uswds #6595](https://github.com/uswds/uswds/pull/6595): iOS VoiceOver no longer reads every character counter out loud on page load.
+- [uswds #6593](https://github.com/uswds/uswds/pull/6593): the date picker tells screen readers which day is today.
+- [uswds #6592](https://github.com/uswds/uswds/pull/6592): keyboard handling ignores the non-keyboard events a datalist selection fires.
+
 ### Projects & Customers
 
 Whatever your project...I've seen worse, weirder, and more complicated. Let's talk.
